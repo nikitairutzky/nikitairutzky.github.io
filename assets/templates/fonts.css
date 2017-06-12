@@ -1,0 +1,59 @@
+@font-face {
+	font-family: "Exo2Bold";
+	src: url("/assets/fonts//Exo2Bold/Exo2Bold.eot");
+	src: url("/assets/fonts//Exo2Bold/Exo2Bold.eot?#iefix") format("embedded-opentype"),
+			 url("/assets/fonts//Exo2Bold/Exo2Bold.woff") format("woff"),
+			 url("/assets/fonts//Exo2Bold/Exo2Bold.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: "FontAwesome";
+	src: url("/assets/fonts//FontAwesome/fontawesome-webfont.eot");
+	src: url("/assets/fonts//FontAwesome/fontawesome-webfont.eot?#iefix") format("embedded-opentype"),
+			 url("/assets/fonts//FontAwesome/fontawesome-webfont.woff") format("woff"),
+			 url("/assets/fonts//FontAwesome/fontawesome-webfont.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: "OpenSansBold";
+	src: url("/assets/fonts//OpenSansBold/OpenSansBold.eot");
+	src: url("/assets/fonts//OpenSansBold/OpenSansBold.eot?#iefix") format("embedded-opentype"),
+			 url("/assets/fonts//OpenSansBold/OpenSansBold.woff") format("woff"),
+			 url("/assets/fonts//OpenSansBold/OpenSansBold.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: "OpenSansLight";
+	src: url("/assets/fonts//OpenSansLight/OpenSansLight.eot");
+	src: url("/assets/fonts//OpenSansLight/OpenSansLight.eot?#iefix") format("embedded-opentype"),
+			 url("/assets/fonts//OpenSansLight/OpenSansLight.woff") format("woff"),
+			 url("/assets/fonts//OpenSansLight/OpenSansLight.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: "OpenSansRegular";
+	src: url("/assets/fonts//OpenSansRegular/OpenSansRegular.eot");
+	src: url("/assets/fonts//OpenSansRegular/OpenSansRegular.eot?#iefix") format("embedded-opentype"),
+			 url("/assets/fonts//OpenSansRegular/OpenSansRegular.woff") format("woff"),
+			 url("/assets/fonts//OpenSansRegular/OpenSansRegular.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: "OpenSansSemiBold";
+	src: url("/assets/fonts//OpenSansSemiBold/OpenSansSemiBold.eot");
+	src: url("/assets/fonts//OpenSansSemiBold/OpenSansSemiBold.eot?#iefix") format("embedded-opentype"),
+			 url("/assets/fonts//OpenSansSemiBold/OpenSansSemiBold.woff") format("woff"),
+			 url("/assets/fonts//OpenSansSemiBold/OpenSansSemiBold.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}

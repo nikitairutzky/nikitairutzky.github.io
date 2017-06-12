@@ -1,0 +1,393 @@
+body {
+  height: 100%;
+}
+
+.a{
+  color: ;#fff;
+}
+
+.a:hover{
+	text-decoration: none;
+	color: #fff;
+}
+
+.top-block{
+	background-color: #003366;
+}
+
+header{
+	padding-top: 14px;
+}
+
+nav li.current a{
+	color: #66ccff;
+	font-size: 21px;
+	border-bottom: 4px solid white;
+	border-color: #66ccff;
+	padding: 4px;
+	box-sizing: border-box;
+	text-decoration: none;
+}
+
+nav a{
+	color: #e8e8e8;
+	font-family: exo2bold;
+	font-size: 15px;
+	padding: 55px 14px;
+	padding-bottom: 2px;
+	display: block;
+}
+
+nav li.active a{
+	background-color: #4192D9;
+}
+
+nav li.hover a{
+	text-decoration: none;
+	color: #fff;
+}
+
+.phone{
+	color: #fff;
+	padding-top: 55px;
+	font-family: exo2bold;
+	font-size: 14px;
+}
+
+.callback{
+	font-size: 18px;
+	font-family: exo2bold;
+	color: #fff;
+	border-bottom: 3px solid white;
+	padding: 4px;
+	border-color: #66ccff;
+}
+
+callback:hover{
+	color: #ff0000;
+}
+
+.benefits{
+	padding: 30px;
+	padding-bottom: 30px;
+	background-color: #3399cc;
+}
+
+.s-adv-item{
+	font-family: opensanssemibold;
+	font-size: 23px;
+	line-height: 25px;
+}
+
+.s-adv-item span{
+	font-size: 45px;
+	color: #66ccff;
+}
+
+.s-adv-item h3{
+	font-family: exo2bold;
+	padding-top: 10px;
+	font-size: 40px;
+	margin: 0px;
+}
+
+.slidertext{
+	padding-top: 130px;
+}
+.slidertext h1{
+	font-size: 45px;
+	font-family: opensanslight;
+	line-height: 55px;
+}
+.slidertext p{
+	font-family: opensanssemibold;
+	font-size: 18px;
+	padding-top: 25px;
+	padding-right: 35px;
+}
+
+.carousel1{
+	text-align: center;
+	margin: auto;
+	padding-top: 35px;
+}
+
+.carousel-indicators{
+	text-align: center;
+}
+
+.blockone{
+	background-color: #99ccff;
+	padding-bottom: 65px;
+}
+
+.orders {
+	background-color: #0066cc;
+	padding-top: 50px;
+	padding-bottom: 100px;
+}
+
+.orders p{
+	color: #fff;
+	font-family: opensansbold;
+	font-size: 36px;
+	margin-bottom: 0px;
+}
+
+.orders h3 {
+	color: #fff;
+	font-family: opensanslight;
+	font-size: 35px;
+	text-align: center;
+	padding-bottom: 30px;
+}
+
+.orders .col-md-5{
+	padding-top: 10px;
+}
+
+.firstblock, .twoblock{
+	border: 7px solid;
+	border-color: #66ccff;
+	text-align: center;
+}
+
+.twoblock .sushi-img img{
+	height: 60%;
+}
+
+.sushi-img img{
+	width: 70%;
+	height: 70%;
+}
+
+.text-ord{
+	text-align: center;
+	background-color: #66ccff;
+}
+
+.reviews{
+	background-color: #99ccff;
+	padding-bottom: 30px;
+}
+
+.reviews h3{
+	padding-top: 30px;
+	font-family: OpenSansLight;
+	font-size: 42px;
+	text-align: center;
+	color: #000;
+	padding-bottom: 55px;
+}
+
+.reviews h4{
+	font-family: opensansbold;
+	font-size: 24px;
+	text-align: center;
+	color: #000;
+}
+
+.testemonials-item{
+	text-align: center;
+}
+
+.rounded-img-wrap{
+	border-radius: 10em;
+	border: 5px solid;
+	border-color: #66ccff;
+	overflow: hidden;
+	width: 190px;
+	height: 190px;
+	margin: auto;
+	text-align: center;
+}
+
+.rounded-img-wrap img{
+ 	max-width: 125%
+}
+
+.testimonials-desc{
+	background-color: #66ccff;
+	color: #000;
+	text-align: center;
+	padding: 10px;
+	padding-bottom: 10px;
+	margin-top: 30px;
+	border-right: 2px;
+	font-family: opensanssemibold;
+}
+
+.footer{
+  background-color: #003366;
+	flex: 0 0 auto;
+  bottom: 0;
+}
+
+.delivery-info{
+	padding-top: 50px;
+	padding-bottom: 50px;
+	background-color: #99ccff;
+}
+
+.delivery-info h2{
+	font-family: opensansbold;
+	font-size: 25px;
+}
+
+.delivery-info h3{
+	font-family: opensansbold;
+	font-size: 22px;
+}
+
+.delivery-info h4{
+	font-family: opensansbold;
+	font-size: 18px;
+}
+
+.delivery-info h2 span{
+	color: #003366;
+}
+
+.delivery-info li{
+	font-family: opensansregular;
+	font-size: 16px;
+	padding-bottom: 7px;
+}
+
+.delivery-info p{
+	font-family: opensansregular;
+	margin: 10px;
+	font-size: 16px;
+	line-height: 1.5;
+	color: #333;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.about-us-info{
+	padding-top: 50px;
+	padding-bottom: 155px;
+	background-color: #99ccff;
+}
+
+.about-us-info h1{
+	font-family: opensansbold;
+	font-size: 36px;
+	text-align: center;
+	padding-bottom: 25px;
+}
+
+.info-block{
+	padding-top: 25px;
+}
+
+.about-us-info p{
+	font-family: opensansregular;
+	margin: 10px;
+	font-size: 18px;
+	line-height: 1.5;
+	height: 50%;
+	color: #333;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.about-us-map iframe{
+	max-width: none;
+	min-width: 360px;
+	padding-top: 150px;
+	padding-bottom: 50px;
+	background-color: #3399cc;
+}
+
+.sushi-list{
+	background-color: #99ccff;
+	height: 100%;
+	padding-bottom: 150px;
+}
+
+.sushi-list h1{
+	font-family: opensansbold;
+	font-size: 36px;
+	text-align: center;
+	padding-bottom: 45px;
+}
+
+.menu-title{
+	font-family: exo2bold;
+	font-size: 20px;
+	text-align: center;
+}
+
+.sushi-weight{
+	font-family: opensanslight;
+	font-size: 13px;
+	padding-top: 5px;
+}
+.product-b h3{
+  font-family: exo2bold;
+	font-size: 20px;
+}
+
+
+.menu-description p{
+	font-family: opensansregular;
+	font-size: 15px;
+	padding-bottom: 10px;
+}
+
+.menu-item{
+  margin-bottom: 35px;
+}
+
+.menu-item-image{
+	padding-bottom: 15px;
+}
+
+.menu-sushi-img img{
+	width: 262px;
+	height: 200px;
+}
+
+.product-price{
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-start;
+}
+
+.product-price #sushi-coast {
+	font-family: exo2bold;
+	font-size: 25px;
+}
+
+.shk-image{
+  position:center;
+}
+
+.shk-but{
+  font-family: exo2bold;
+  font-size: 18px;
+  background: none;
+  border: none;
+}
+
+.product-b:hover {
+  box-shadow:
+    1px 1px #003366,
+    2px 2px #003366,
+    3px 3px #003366,
+    4px 4px #003366,
+    5px 5px #003366,
+    6px 6px #003366,
+    7px 7px #003366;
+  -webkit-transform: translateX( -7px);
+  transform: translateX( -7px);
+}
+
+.cart-box{
+    padding-top: 75px;
+    padding-bottom: 255px;
+    background-color: #99ccff;
+    height: 100%;
+}
+
+

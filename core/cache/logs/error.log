@@ -1,0 +1,713 @@
+[2017-04-02 13:16:21] (ERROR @ C:\OpenServer\domains\modx.lesson\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/ru/core/resource
+[2017-05-11 11:49:29] (ERROR @ C:\OpenServer\domains\modx.lesson\core\model\modx\modcachemanager.class.php : 394) Error caching action map mgr/actions
+[2017-05-16 11:27:59] (ERROR @ C:\OpenServer\domains\modx.lesson\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/ru/formit/default
+[2017-05-16 11:35:54] (ERROR @ C:\OpenServer\domains\modx.lesson\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/ru/core/resource
+[2017-05-16 11:55:34] (ERROR @ C:\OpenServer\domains\modx.lesson\core\model\modx\modcachemanager.class.php : 317) Could not cache resource 1
+[2017-05-17 09:44:01] (ERROR @ C:\OpenServer\domains\modx.lesson\core\model\modx\modcachemanager.class.php : 317) Could not cache resource 1
+[2017-05-24 12:02:28] (ERROR @ C:\OpenServer\domains\modx.lesson\core\model\phpthumb\modphpthumb.class.php : 121) phpThumb was unable to generate a thumbnail for: C:\OpenServer\domains\modx.lesson\core\cache\phpthumb\modx.lesson__srcb2fee97a48c24287a4507f21f8fce31f_par02a1b054e8467fb1e234c8a8fd8d10d2_dat0.png
+[2017-05-24 12:02:28] (ERROR @ C:\OpenServer\domains\modx.lesson\core\model\phpthumb\modphpthumb.class.php : 133) Error outputting thumbnail:
+OutputThumbnail() failed because !is_resource($this->gdimg_output) in file "phpthumb.class.php" on line 618
+[2017-05-24 12:13:06] (ERROR @ C:\OpenServer\domains\modx.lesson\core\model\modx\modstaticresource.class.php : 175) PHP warning: file_get_contents(C:/OpenServer/domains/modx.lesson/) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory
+[2017-05-24 12:13:06] (ERROR @ C:\OpenServer\domains\modx.lesson\core\model\modx\modstaticresource.class.php : 178) modStaticResource->getFileContent(C:/OpenServer/domains/modx.lesson/): Could not get content from file.
+[2017-05-24 12:13:06] (ERROR @ C:\OpenServer\domains\modx.lesson\core\model\modx\modstaticresource.class.php : 96) No content could be retrieved from source file: C:/OpenServer/domains/modx.lesson/
+[2017-05-24 12:13:12] (ERROR @ C:\OpenServer\domains\modx.lesson\core\model\modx\modstaticresource.class.php : 175) PHP warning: file_get_contents(C:/OpenServer/domains/modx.lesson/) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory
+[2017-05-24 12:13:12] (ERROR @ C:\OpenServer\domains\modx.lesson\core\model\modx\modstaticresource.class.php : 178) modStaticResource->getFileContent(C:/OpenServer/domains/modx.lesson/): Could not get content from file.
+[2017-05-24 12:13:12] (ERROR @ C:\OpenServer\domains\modx.lesson\core\model\modx\modstaticresource.class.php : 96) No content could be retrieved from source file: C:/OpenServer/domains/modx.lesson/
+[2017-05-24 12:14:03] (ERROR @ C:\OpenServer\domains\modx.lesson\core\model\modx\modstaticresource.class.php : 175) PHP warning: file_get_contents(C:/OpenServer/domains/modx.lesson/) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory
+[2017-05-24 12:14:03] (ERROR @ C:\OpenServer\domains\modx.lesson\core\model\modx\modstaticresource.class.php : 178) modStaticResource->getFileContent(C:/OpenServer/domains/modx.lesson/): Could not get content from file.
+[2017-05-24 12:14:03] (ERROR @ C:\OpenServer\domains\modx.lesson\core\model\modx\modstaticresource.class.php : 96) No content could be retrieved from source file: C:/OpenServer/domains/modx.lesson/
+[2017-05-24 12:14:04] (ERROR @ C:\OpenServer\domains\modx.lesson\core\model\modx\modstaticresource.class.php : 175) PHP warning: file_get_contents(C:/OpenServer/domains/modx.lesson/) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory
+[2017-05-24 12:14:04] (ERROR @ C:\OpenServer\domains\modx.lesson\core\model\modx\modstaticresource.class.php : 178) modStaticResource->getFileContent(C:/OpenServer/domains/modx.lesson/): Could not get content from file.
+[2017-05-24 12:14:04] (ERROR @ C:\OpenServer\domains\modx.lesson\core\model\modx\modstaticresource.class.php : 96) No content could be retrieved from source file: C:/OpenServer/domains/modx.lesson/
+[2017-05-24 12:15:47] (ERROR @ C:\OpenServer\domains\modx.lesson\core\model\modx\modstaticresource.class.php : 175) PHP warning: file_get_contents(C:/OpenServer/domains/modx.lesson/) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory
+[2017-05-24 12:15:47] (ERROR @ C:\OpenServer\domains\modx.lesson\core\model\modx\modstaticresource.class.php : 178) modStaticResource->getFileContent(C:/OpenServer/domains/modx.lesson/): Could not get content from file.
+[2017-05-24 12:15:47] (ERROR @ C:\OpenServer\domains\modx.lesson\core\model\modx\modstaticresource.class.php : 96) No content could be retrieved from source file: C:/OpenServer/domains/modx.lesson/
+[2017-05-24 12:15:49] (ERROR @ C:\OpenServer\domains\modx.lesson\core\model\modx\modstaticresource.class.php : 175) PHP warning: file_get_contents(C:/OpenServer/domains/modx.lesson/) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory
+[2017-05-24 12:15:49] (ERROR @ C:\OpenServer\domains\modx.lesson\core\model\modx\modstaticresource.class.php : 178) modStaticResource->getFileContent(C:/OpenServer/domains/modx.lesson/): Could not get content from file.
+[2017-05-24 12:15:49] (ERROR @ C:\OpenServer\domains\modx.lesson\core\model\modx\modstaticresource.class.php : 96) No content could be retrieved from source file: C:/OpenServer/domains/modx.lesson/
+[2017-05-24 12:15:55] (ERROR @ C:\OpenServer\domains\modx.lesson\core\model\modx\modstaticresource.class.php : 175) PHP warning: file_get_contents(C:/OpenServer/domains/modx.lesson/) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory
+[2017-05-24 12:15:55] (ERROR @ C:\OpenServer\domains\modx.lesson\core\model\modx\modstaticresource.class.php : 178) modStaticResource->getFileContent(C:/OpenServer/domains/modx.lesson/): Could not get content from file.
+[2017-05-24 12:15:55] (ERROR @ C:\OpenServer\domains\modx.lesson\core\model\modx\modstaticresource.class.php : 96) No content could be retrieved from source file: C:/OpenServer/domains/modx.lesson/
+[2017-05-24 12:16:26] (ERROR @ C:\OpenServer\domains\modx.lesson\core\model\modx\modstaticresource.class.php : 175) PHP warning: file_get_contents(C:/OpenServer/domains/modx.lesson/) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory
+[2017-05-24 12:16:26] (ERROR @ C:\OpenServer\domains\modx.lesson\core\model\modx\modstaticresource.class.php : 178) modStaticResource->getFileContent(C:/OpenServer/domains/modx.lesson/): Could not get content from file.
+[2017-05-24 12:16:26] (ERROR @ C:\OpenServer\domains\modx.lesson\core\model\modx\modstaticresource.class.php : 96) No content could be retrieved from source file: C:/OpenServer/domains/modx.lesson/
+[2017-05-24 12:16:28] (ERROR @ C:\OpenServer\domains\modx.lesson\core\model\modx\modstaticresource.class.php : 175) PHP warning: file_get_contents(C:/OpenServer/domains/modx.lesson/) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory
+[2017-05-24 12:16:28] (ERROR @ C:\OpenServer\domains\modx.lesson\core\model\modx\modstaticresource.class.php : 178) modStaticResource->getFileContent(C:/OpenServer/domains/modx.lesson/): Could not get content from file.
+[2017-05-24 12:16:28] (ERROR @ C:\OpenServer\domains\modx.lesson\core\model\modx\modstaticresource.class.php : 96) No content could be retrieved from source file: C:/OpenServer/domains/modx.lesson/
+[2017-05-24 12:16:42] (ERROR @ C:\OpenServer\domains\modx.lesson\core\model\modx\modcachemanager.class.php : 320) Could not retrieve data to cache for resource 14
+[2017-05-24 12:17:36] (ERROR @ C:\OpenServer\domains\modx.lesson\core\model\modx\modcachemanager.class.php : 317) Could not cache resource 1
+[2017-05-24 12:20:19] (ERROR @ C:\OpenServer\domains\modx.lesson\core\model\modx\modcachemanager.class.php : 320) Could not retrieve data to cache for resource 14
+[2017-05-24 12:20:21] (ERROR @ C:\OpenServer\domains\modx.lesson\core\model\modx\modcachemanager.class.php : 320) Could not retrieve data to cache for resource 14
+[2017-05-24 12:20:46] (ERROR @ C:\OpenServer\domains\modx.lesson\core\xpdo\om\xpdoobject.class.php : 1452) Error 23000 executing statement:
+INSERT INTO `modx_site_templates` (`source`, `property_preprocess`, `templatename`, `description`, `editor_type`, `category`, `icon`, `template_type`, `content`, `locked`, `properties`, `static`, `static_file`) VALUES (1, 0, 'Шаблон элемента', '', 0, 0, '', 0, '<!DOCTYPE html>\r\n<html>\r\n<head>\r\n[[$header]]\r\n</head>\r\n<body>\r\n<div class=\"container\">\r\n<div class=\"page-header\">\r\n<h1><a href=\"/\">Каталог книг</a> <small>(на MODx Revolution)</small></h1>\r\n<p>Пример каталога элементов на getResources с Ajax-подгрузкой</p>\r\n</div>\r\n\r\n<div class=\"row\" style=\"margin-bottom:30px;\">\r\n<div class=\"col-md-3 item-left\">\r\nЗдесь будет картинка книги\r\n</div>\r\n<div class=\"col-md-9\">\r\nЗдесь будет название, описание и прочая информация\r\n</div>\r\n</div>\r\n</div>\r\n[[$footer]]\r\n</body>\r\n</html>', 0, 'a:0:{}', 0, '')
+Array
+(
+    [0] => 23000
+    [1] => 1062
+    [2] => Duplicate entry 'Шаблон элемента' for key 'templatename'
+)
+
+[2017-05-24 12:20:46] (ERROR @ C:\OpenServer\domains\modx.lesson\core\model\modx\modtemplate.class.php : 72) template_err_createArray
+[2017-05-24 12:20:50] (ERROR @ C:\OpenServer\domains\modx.lesson\core\model\modx\modcachemanager.class.php : 320) Could not retrieve data to cache for resource 14
+[2017-05-24 12:26:48] (ERROR @ C:\OpenServer\domains\modx.lesson\core\model\modx\modcachemanager.class.php : 394) Error caching action map mgr/actions
+[2017-05-25 11:06:57] (ERROR @ C:\OpenServer\domains\modx.lesson\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/ru/core/resource
+[2017-05-25 11:31:24] (ERROR @ C:\OpenServer\domains\modx.lesson\core\model\modx\modtemplatevar.class.php : 92) Произошла ошибка при сохранении дополнительного поля.Array
+[2017-05-25 11:31:27] (ERROR @ C:\OpenServer\domains\modx.lesson\core\model\modx\modtemplatevar.class.php : 92) Произошла ошибка при сохранении дополнительного поля.Array
+[2017-05-25 11:31:34] (ERROR @ C:\OpenServer\domains\modx.lesson\core\model\modx\modtemplatevar.class.php : 92) Произошла ошибка при сохранении дополнительного поля.Array
+[2017-05-25 11:49:42] (ERROR @ C:\OpenServer\domains\modx.lesson\core\model\modx\modcachemanager.class.php : 320) Could not retrieve data to cache for resource 16
+[2017-05-25 11:50:18] (ERROR @ C:\OpenServer\domains\modx.lesson\core\model\modx\modcachemanager.class.php : 320) Could not retrieve data to cache for resource 16
+[2017-05-25 11:50:19] (ERROR @ C:\OpenServer\domains\modx.lesson\core\model\modx\modcachemanager.class.php : 320) Could not retrieve data to cache for resource 16
+[2017-05-25 11:50:20] (ERROR @ C:\OpenServer\domains\modx.lesson\core\model\modx\modcachemanager.class.php : 320) Could not retrieve data to cache for resource 16
+[2017-05-25 11:57:07] (ERROR @ C:\OpenServer\domains\modx.lesson\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/ru/core/resource
+[2017-05-25 12:17:43] (ERROR @ C:\OpenServer\domains\modx.lesson\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/ru/core/resource
+[2017-05-25 12:21:38] (ERROR @ C:\OpenServer\domains\modx.lesson\core\components\getproducts\model\getproducts.class.php : 655) [ERROR] getProducts SQL error (line 655): Array
+(
+    [0] => 42000
+    [1] => 1064
+    [2] => You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''20'' at line 7
+)
+
+[2017-05-25 12:21:43] (ERROR @ C:\OpenServer\domains\modx.lesson\core\components\getproducts\model\getproducts.class.php : 655) [ERROR] getProducts SQL error (line 655): Array
+(
+    [0] => 42000
+    [1] => 1064
+    [2] => You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''20'' at line 7
+)
+
+[2017-05-25 12:21:44] (ERROR @ C:\OpenServer\domains\modx.lesson\core\components\getproducts\model\getproducts.class.php : 655) [ERROR] getProducts SQL error (line 655): Array
+(
+    [0] => 42000
+    [1] => 1064
+    [2] => You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''20'' at line 7
+)
+
+[2017-05-25 12:21:44] (ERROR @ C:\OpenServer\domains\modx.lesson\core\components\getproducts\model\getproducts.class.php : 655) [ERROR] getProducts SQL error (line 655): Array
+(
+    [0] => 42000
+    [1] => 1064
+    [2] => You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''20'' at line 7
+)
+
+[2017-05-25 12:21:45] (ERROR @ C:\OpenServer\domains\modx.lesson\core\components\getproducts\model\getproducts.class.php : 655) [ERROR] getProducts SQL error (line 655): Array
+(
+    [0] => 42000
+    [1] => 1064
+    [2] => You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''20'' at line 7
+)
+
+[2017-05-25 12:21:54] (ERROR @ C:\OpenServer\domains\modx.lesson\core\components\getproducts\model\getproducts.class.php : 655) [ERROR] getProducts SQL error (line 655): Array
+(
+    [0] => 42000
+    [1] => 1064
+    [2] => You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''20'' at line 7
+)
+
+[2017-05-25 12:21:55] (ERROR @ C:\OpenServer\domains\modx.lesson\core\components\getproducts\model\getproducts.class.php : 655) [ERROR] getProducts SQL error (line 655): Array
+(
+    [0] => 42000
+    [1] => 1064
+    [2] => You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''20'' at line 7
+)
+
+[2017-05-25 12:21:56] (ERROR @ C:\OpenServer\domains\modx.lesson\core\components\getproducts\model\getproducts.class.php : 655) [ERROR] getProducts SQL error (line 655): Array
+(
+    [0] => 42000
+    [1] => 1064
+    [2] => You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''20'' at line 7
+)
+
+[2017-05-25 12:21:57] (ERROR @ C:\OpenServer\domains\modx.lesson\core\components\getproducts\model\getproducts.class.php : 655) [ERROR] getProducts SQL error (line 655): Array
+(
+    [0] => 42000
+    [1] => 1064
+    [2] => You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''20'' at line 7
+)
+
+[2017-05-25 12:21:57] (ERROR @ C:\OpenServer\domains\modx.lesson\core\components\getproducts\model\getproducts.class.php : 655) [ERROR] getProducts SQL error (line 655): Array
+(
+    [0] => 42000
+    [1] => 1064
+    [2] => You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''20'' at line 7
+)
+
+[2017-05-25 12:21:57] (ERROR @ C:\OpenServer\domains\modx.lesson\core\components\getproducts\model\getproducts.class.php : 655) [ERROR] getProducts SQL error (line 655): Array
+(
+    [0] => 42000
+    [1] => 1064
+    [2] => You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''20'' at line 7
+)
+
+[2017-05-25 12:22:24] (ERROR @ C:\OpenServer\domains\modx.lesson\core\components\getproducts\model\getproducts.class.php : 655) [ERROR] getProducts SQL error (line 655): Array
+(
+    [0] => 42000
+    [1] => 1064
+    [2] => You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''20'' at line 7
+)
+
+[2017-05-25 12:22:25] (ERROR @ C:\OpenServer\domains\modx.lesson\core\components\getproducts\model\getproducts.class.php : 655) [ERROR] getProducts SQL error (line 655): Array
+(
+    [0] => 42000
+    [1] => 1064
+    [2] => You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''20'' at line 7
+)
+
+[2017-05-25 12:22:26] (ERROR @ C:\OpenServer\domains\modx.lesson\core\components\getproducts\model\getproducts.class.php : 655) [ERROR] getProducts SQL error (line 655): Array
+(
+    [0] => 42000
+    [1] => 1064
+    [2] => You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''20'' at line 7
+)
+
+[2017-05-25 12:23:50] (ERROR @ C:\OpenServer\domains\modx.lesson\core\components\getproducts\model\getproducts.class.php : 655) [ERROR] getProducts SQL error (line 655): Array
+(
+    [0] => 42000
+    [1] => 1064
+    [2] => You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''20'' at line 7
+)
+
+[2017-05-25 12:24:13] (ERROR @ C:\OpenServer\domains\modx.lesson\core\components\getproducts\model\getproducts.class.php : 655) [ERROR] getProducts SQL error (line 655): Array
+(
+    [0] => 42000
+    [1] => 1064
+    [2] => You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''20'' at line 7
+)
+
+[2017-05-25 12:38:47] (ERROR @ C:\OpenServer\domains\modx.lesson\core\components\getproducts\model\getproducts.class.php : 655) [ERROR] getProducts SQL error (line 655): Array
+(
+    [0] => 42000
+    [1] => 1064
+    [2] => You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''20'' at line 7
+)
+
+[2017-05-25 12:38:48] (ERROR @ C:\OpenServer\domains\modx.lesson\core\components\getproducts\model\getproducts.class.php : 655) [ERROR] getProducts SQL error (line 655): Array
+(
+    [0] => 42000
+    [1] => 1064
+    [2] => You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''20'' at line 7
+)
+
+[2017-05-25 12:39:02] (ERROR @ C:\OpenServer\domains\modx.lesson\core\components\getproducts\model\getproducts.class.php : 655) [ERROR] getProducts SQL error (line 655): Array
+(
+    [0] => 42000
+    [1] => 1064
+    [2] => You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''20'' at line 7
+)
+
+[2017-05-25 12:39:02] (ERROR @ C:\OpenServer\domains\modx.lesson\core\components\getproducts\model\getproducts.class.php : 655) [ERROR] getProducts SQL error (line 655): Array
+(
+    [0] => 42000
+    [1] => 1064
+    [2] => You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''20'' at line 7
+)
+
+[2017-05-25 12:39:03] (ERROR @ C:\OpenServer\domains\modx.lesson\core\components\getproducts\model\getproducts.class.php : 655) [ERROR] getProducts SQL error (line 655): Array
+(
+    [0] => 42000
+    [1] => 1064
+    [2] => You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''20'' at line 7
+)
+
+[2017-05-25 12:39:08] (ERROR @ C:\OpenServer\domains\modx.lesson\core\components\getproducts\model\getproducts.class.php : 655) [ERROR] getProducts SQL error (line 655): Array
+(
+    [0] => 42000
+    [1] => 1064
+    [2] => You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''20'' at line 7
+)
+
+[2017-05-25 12:39:10] (ERROR @ C:\OpenServer\domains\modx.lesson\core\components\getproducts\model\getproducts.class.php : 655) [ERROR] getProducts SQL error (line 655): Array
+(
+    [0] => 42000
+    [1] => 1064
+    [2] => You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''20'' at line 7
+)
+
+[2017-05-25 12:39:10] (ERROR @ C:\OpenServer\domains\modx.lesson\core\components\getproducts\model\getproducts.class.php : 655) [ERROR] getProducts SQL error (line 655): Array
+(
+    [0] => 42000
+    [1] => 1064
+    [2] => You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''20'' at line 7
+)
+
+[2017-05-25 12:39:11] (ERROR @ C:\OpenServer\domains\modx.lesson\core\components\getproducts\model\getproducts.class.php : 655) [ERROR] getProducts SQL error (line 655): Array
+(
+    [0] => 42000
+    [1] => 1064
+    [2] => You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''20'' at line 7
+)
+
+[2017-05-25 12:39:11] (ERROR @ C:\OpenServer\domains\modx.lesson\core\components\getproducts\model\getproducts.class.php : 655) [ERROR] getProducts SQL error (line 655): Array
+(
+    [0] => 42000
+    [1] => 1064
+    [2] => You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''20'' at line 7
+)
+
+[2017-05-25 12:39:11] (ERROR @ C:\OpenServer\domains\modx.lesson\core\components\getproducts\model\getproducts.class.php : 655) [ERROR] getProducts SQL error (line 655): Array
+(
+    [0] => 42000
+    [1] => 1064
+    [2] => You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''20'' at line 7
+)
+
+[2017-05-25 12:39:11] (ERROR @ C:\OpenServer\domains\modx.lesson\core\components\getproducts\model\getproducts.class.php : 655) [ERROR] getProducts SQL error (line 655): Array
+(
+    [0] => 42000
+    [1] => 1064
+    [2] => You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''20'' at line 7
+)
+
+[2017-05-25 12:39:11] (ERROR @ C:\OpenServer\domains\modx.lesson\core\components\getproducts\model\getproducts.class.php : 655) [ERROR] getProducts SQL error (line 655): Array
+(
+    [0] => 42000
+    [1] => 1064
+    [2] => You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''20'' at line 7
+)
+
+[2017-05-25 12:39:12] (ERROR @ C:\OpenServer\domains\modx.lesson\core\components\getproducts\model\getproducts.class.php : 655) [ERROR] getProducts SQL error (line 655): Array
+(
+    [0] => 42000
+    [1] => 1064
+    [2] => You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''20'' at line 7
+)
+
+[2017-05-25 12:39:12] (ERROR @ C:\OpenServer\domains\modx.lesson\core\components\getproducts\model\getproducts.class.php : 655) [ERROR] getProducts SQL error (line 655): Array
+(
+    [0] => 42000
+    [1] => 1064
+    [2] => You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''20'' at line 7
+)
+
+[2017-05-25 12:39:12] (ERROR @ C:\OpenServer\domains\modx.lesson\core\components\getproducts\model\getproducts.class.php : 655) [ERROR] getProducts SQL error (line 655): Array
+(
+    [0] => 42000
+    [1] => 1064
+    [2] => You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''20'' at line 7
+)
+
+[2017-05-25 12:39:12] (ERROR @ C:\OpenServer\domains\modx.lesson\core\components\getproducts\model\getproducts.class.php : 655) [ERROR] getProducts SQL error (line 655): Array
+(
+    [0] => 42000
+    [1] => 1064
+    [2] => You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''20'' at line 7
+)
+
+[2017-05-25 12:39:12] (ERROR @ C:\OpenServer\domains\modx.lesson\core\components\getproducts\model\getproducts.class.php : 655) [ERROR] getProducts SQL error (line 655): Array
+(
+    [0] => 42000
+    [1] => 1064
+    [2] => You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''20'' at line 7
+)
+
+[2017-05-25 12:39:12] (ERROR @ C:\OpenServer\domains\modx.lesson\core\components\getproducts\model\getproducts.class.php : 655) [ERROR] getProducts SQL error (line 655): Array
+(
+    [0] => 42000
+    [1] => 1064
+    [2] => You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''20'' at line 7
+)
+
+[2017-05-25 12:39:13] (ERROR @ C:\OpenServer\domains\modx.lesson\core\components\getproducts\model\getproducts.class.php : 655) [ERROR] getProducts SQL error (line 655): Array
+(
+    [0] => 42000
+    [1] => 1064
+    [2] => You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''20'' at line 7
+)
+
+[2017-05-25 12:39:13] (ERROR @ C:\OpenServer\domains\modx.lesson\core\components\getproducts\model\getproducts.class.php : 655) [ERROR] getProducts SQL error (line 655): Array
+(
+    [0] => 42000
+    [1] => 1064
+    [2] => You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''20'' at line 7
+)
+
+[2017-05-25 12:39:56] (ERROR @ C:\OpenServer\domains\modx.lesson\core\components\getproducts\model\getproducts.class.php : 655) [ERROR] getProducts SQL error (line 655): Array
+(
+    [0] => 42000
+    [1] => 1064
+    [2] => You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''20'' at line 7
+)
+
+[2017-05-25 12:39:56] (ERROR @ C:\OpenServer\domains\modx.lesson\core\components\getproducts\model\getproducts.class.php : 655) [ERROR] getProducts SQL error (line 655): Array
+(
+    [0] => 42000
+    [1] => 1064
+    [2] => You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''20'' at line 7
+)
+
+[2017-05-25 12:40:10] (ERROR @ C:\OpenServer\domains\modx.lesson\core\components\getproducts\model\getproducts.class.php : 655) [ERROR] getProducts SQL error (line 655): Array
+(
+    [0] => 42000
+    [1] => 1064
+    [2] => You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''20'' at line 7
+)
+
+[2017-05-25 12:40:12] (ERROR @ C:\OpenServer\domains\modx.lesson\core\components\getproducts\model\getproducts.class.php : 655) [ERROR] getProducts SQL error (line 655): Array
+(
+    [0] => 42000
+    [1] => 1064
+    [2] => You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''20'' at line 7
+)
+
+[2017-05-25 12:40:15] (ERROR @ C:\OpenServer\domains\modx.lesson\core\components\getproducts\model\getproducts.class.php : 655) [ERROR] getProducts SQL error (line 655): Array
+(
+    [0] => 42000
+    [1] => 1064
+    [2] => You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''20'' at line 7
+)
+
+[2017-05-25 12:40:17] (ERROR @ C:\OpenServer\domains\modx.lesson\core\components\getproducts\model\getproducts.class.php : 655) [ERROR] getProducts SQL error (line 655): Array
+(
+    [0] => 42000
+    [1] => 1064
+    [2] => You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''20'' at line 7
+)
+
+[2017-05-25 12:40:19] (ERROR @ C:\OpenServer\domains\modx.lesson\core\components\getproducts\model\getproducts.class.php : 655) [ERROR] getProducts SQL error (line 655): Array
+(
+    [0] => 42000
+    [1] => 1064
+    [2] => You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''20'' at line 7
+)
+
+[2017-05-25 12:40:20] (ERROR @ C:\OpenServer\domains\modx.lesson\core\components\getproducts\model\getproducts.class.php : 655) [ERROR] getProducts SQL error (line 655): Array
+(
+    [0] => 42000
+    [1] => 1064
+    [2] => You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''20'' at line 7
+)
+
+[2017-05-25 12:40:20] (ERROR @ C:\OpenServer\domains\modx.lesson\core\components\getproducts\model\getproducts.class.php : 655) [ERROR] getProducts SQL error (line 655): Array
+(
+    [0] => 42000
+    [1] => 1064
+    [2] => You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''20'' at line 7
+)
+
+[2017-05-25 12:40:21] (ERROR @ C:\OpenServer\domains\modx.lesson\core\components\getproducts\model\getproducts.class.php : 655) [ERROR] getProducts SQL error (line 655): Array
+(
+    [0] => 42000
+    [1] => 1064
+    [2] => You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''20'' at line 7
+)
+
+[2017-05-25 12:40:22] (ERROR @ C:\OpenServer\domains\modx.lesson\core\components\getproducts\model\getproducts.class.php : 655) [ERROR] getProducts SQL error (line 655): Array
+(
+    [0] => 42000
+    [1] => 1064
+    [2] => You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''20'' at line 7
+)
+
+[2017-05-25 12:40:22] (ERROR @ C:\OpenServer\domains\modx.lesson\core\components\getproducts\model\getproducts.class.php : 655) [ERROR] getProducts SQL error (line 655): Array
+(
+    [0] => 42000
+    [1] => 1064
+    [2] => You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''20'' at line 7
+)
+
+[2017-05-25 12:40:23] (ERROR @ C:\OpenServer\domains\modx.lesson\core\components\getproducts\model\getproducts.class.php : 655) [ERROR] getProducts SQL error (line 655): Array
+(
+    [0] => 42000
+    [1] => 1064
+    [2] => You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''20'' at line 7
+)
+
+[2017-05-25 12:40:24] (ERROR @ C:\OpenServer\domains\modx.lesson\core\components\getproducts\model\getproducts.class.php : 655) [ERROR] getProducts SQL error (line 655): Array
+(
+    [0] => 42000
+    [1] => 1064
+    [2] => You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''20'' at line 7
+)
+
+[2017-05-25 12:40:24] (ERROR @ C:\OpenServer\domains\modx.lesson\core\components\getproducts\model\getproducts.class.php : 655) [ERROR] getProducts SQL error (line 655): Array
+(
+    [0] => 42000
+    [1] => 1064
+    [2] => You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''20'' at line 7
+)
+
+[2017-05-25 12:40:24] (ERROR @ C:\OpenServer\domains\modx.lesson\core\components\getproducts\model\getproducts.class.php : 655) [ERROR] getProducts SQL error (line 655): Array
+(
+    [0] => 42000
+    [1] => 1064
+    [2] => You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''20'' at line 7
+)
+
+[2017-05-25 12:40:25] (ERROR @ C:\OpenServer\domains\modx.lesson\core\components\getproducts\model\getproducts.class.php : 655) [ERROR] getProducts SQL error (line 655): Array
+(
+    [0] => 42000
+    [1] => 1064
+    [2] => You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''20'' at line 7
+)
+
+[2017-05-25 12:40:25] (ERROR @ C:\OpenServer\domains\modx.lesson\core\components\getproducts\model\getproducts.class.php : 655) [ERROR] getProducts SQL error (line 655): Array
+(
+    [0] => 42000
+    [1] => 1064
+    [2] => You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''20'' at line 7
+)
+
+[2017-05-25 12:40:27] (ERROR @ C:\OpenServer\domains\modx.lesson\core\components\getproducts\model\getproducts.class.php : 655) [ERROR] getProducts SQL error (line 655): Array
+(
+    [0] => 42000
+    [1] => 1064
+    [2] => You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''20'' at line 7
+)
+
+[2017-05-25 12:40:27] (ERROR @ C:\OpenServer\domains\modx.lesson\core\components\getproducts\model\getproducts.class.php : 655) [ERROR] getProducts SQL error (line 655): Array
+(
+    [0] => 42000
+    [1] => 1064
+    [2] => You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''20'' at line 7
+)
+
+[2017-05-25 12:40:28] (ERROR @ C:\OpenServer\domains\modx.lesson\core\components\getproducts\model\getproducts.class.php : 655) [ERROR] getProducts SQL error (line 655): Array
+(
+    [0] => 42000
+    [1] => 1064
+    [2] => You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''20'' at line 7
+)
+
+[2017-05-25 12:40:28] (ERROR @ C:\OpenServer\domains\modx.lesson\core\components\getproducts\model\getproducts.class.php : 655) [ERROR] getProducts SQL error (line 655): Array
+(
+    [0] => 42000
+    [1] => 1064
+    [2] => You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''20'' at line 7
+)
+
+[2017-05-25 12:40:43] (ERROR @ C:\OpenServer\domains\modx.lesson\core\components\getproducts\model\getproducts.class.php : 655) [ERROR] getProducts SQL error (line 655): Array
+(
+    [0] => 42000
+    [1] => 1064
+    [2] => You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''20'' at line 7
+)
+
+[2017-05-25 12:40:43] (ERROR @ C:\OpenServer\domains\modx.lesson\core\components\getproducts\model\getproducts.class.php : 655) [ERROR] getProducts SQL error (line 655): Array
+(
+    [0] => 42000
+    [1] => 1064
+    [2] => You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''20'' at line 7
+)
+
+[2017-05-25 12:40:43] (ERROR @ C:\OpenServer\domains\modx.lesson\core\components\getproducts\model\getproducts.class.php : 655) [ERROR] getProducts SQL error (line 655): Array
+(
+    [0] => 42000
+    [1] => 1064
+    [2] => You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''20'' at line 7
+)
+
+[2017-05-25 12:40:43] (ERROR @ C:\OpenServer\domains\modx.lesson\core\components\getproducts\model\getproducts.class.php : 655) [ERROR] getProducts SQL error (line 655): Array
+(
+    [0] => 42000
+    [1] => 1064
+    [2] => You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''20'' at line 7
+)
+
+[2017-05-25 12:40:43] (ERROR @ C:\OpenServer\domains\modx.lesson\core\components\getproducts\model\getproducts.class.php : 655) [ERROR] getProducts SQL error (line 655): Array
+(
+    [0] => 42000
+    [1] => 1064
+    [2] => You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''20'' at line 7
+)
+
+[2017-05-25 12:40:44] (ERROR @ C:\OpenServer\domains\modx.lesson\core\components\getproducts\model\getproducts.class.php : 655) [ERROR] getProducts SQL error (line 655): Array
+(
+    [0] => 42000
+    [1] => 1064
+    [2] => You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''20'' at line 7
+)
+
+[2017-05-25 12:40:44] (ERROR @ C:\OpenServer\domains\modx.lesson\core\components\getproducts\model\getproducts.class.php : 655) [ERROR] getProducts SQL error (line 655): Array
+(
+    [0] => 42000
+    [1] => 1064
+    [2] => You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''20'' at line 7
+)
+
+[2017-05-25 12:40:44] (ERROR @ C:\OpenServer\domains\modx.lesson\core\components\getproducts\model\getproducts.class.php : 655) [ERROR] getProducts SQL error (line 655): Array
+(
+    [0] => 42000
+    [1] => 1064
+    [2] => You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''20'' at line 7
+)
+
+[2017-05-25 12:40:44] (ERROR @ C:\OpenServer\domains\modx.lesson\core\components\getproducts\model\getproducts.class.php : 655) [ERROR] getProducts SQL error (line 655): Array
+(
+    [0] => 42000
+    [1] => 1064
+    [2] => You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''20'' at line 7
+)
+
+[2017-05-25 12:40:45] (ERROR @ C:\OpenServer\domains\modx.lesson\core\components\getproducts\model\getproducts.class.php : 655) [ERROR] getProducts SQL error (line 655): Array
+(
+    [0] => 42000
+    [1] => 1064
+    [2] => You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''20'' at line 7
+)
+
+[2017-05-25 12:40:45] (ERROR @ C:\OpenServer\domains\modx.lesson\core\components\getproducts\model\getproducts.class.php : 655) [ERROR] getProducts SQL error (line 655): Array
+(
+    [0] => 42000
+    [1] => 1064
+    [2] => You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''20'' at line 7
+)
+
+[2017-05-25 12:40:45] (ERROR @ C:\OpenServer\domains\modx.lesson\core\components\getproducts\model\getproducts.class.php : 655) [ERROR] getProducts SQL error (line 655): Array
+(
+    [0] => 42000
+    [1] => 1064
+    [2] => You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''20'' at line 7
+)
+
+[2017-05-25 12:40:55] (ERROR @ C:\OpenServer\domains\modx.lesson\core\components\getproducts\model\getproducts.class.php : 655) [ERROR] getProducts SQL error (line 655): Array
+(
+    [0] => 42000
+    [1] => 1064
+    [2] => You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''20'' at line 7
+)
+
+[2017-05-25 12:40:58] (ERROR @ C:\OpenServer\domains\modx.lesson\core\components\getproducts\model\getproducts.class.php : 655) [ERROR] getProducts SQL error (line 655): Array
+(
+    [0] => 42000
+    [1] => 1064
+    [2] => You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''20'' at line 7
+)
+
+[2017-05-25 12:41:27] (ERROR @ C:\OpenServer\domains\modx.lesson\core\components\getproducts\model\getproducts.class.php : 655) [ERROR] getProducts SQL error (line 655): Array
+(
+    [0] => 42000
+    [1] => 1064
+    [2] => You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''20'' at line 7
+)
+
+[2017-05-25 12:41:29] (ERROR @ C:\OpenServer\domains\modx.lesson\core\components\getproducts\model\getproducts.class.php : 655) [ERROR] getProducts SQL error (line 655): Array
+(
+    [0] => 42000
+    [1] => 1064
+    [2] => You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''20'' at line 7
+)
+
+[2017-05-25 12:41:31] (ERROR @ C:\OpenServer\domains\modx.lesson\core\components\getproducts\model\getproducts.class.php : 655) [ERROR] getProducts SQL error (line 655): Array
+(
+    [0] => 42000
+    [1] => 1064
+    [2] => You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''20'' at line 7
+)
+
+[2017-05-25 12:41:32] (ERROR @ C:\OpenServer\domains\modx.lesson\core\components\getproducts\model\getproducts.class.php : 655) [ERROR] getProducts SQL error (line 655): Array
+(
+    [0] => 42000
+    [1] => 1064
+    [2] => You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''20'' at line 7
+)
+
+[2017-05-25 12:41:32] (ERROR @ C:\OpenServer\domains\modx.lesson\core\components\getproducts\model\getproducts.class.php : 655) [ERROR] getProducts SQL error (line 655): Array
+(
+    [0] => 42000
+    [1] => 1064
+    [2] => You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''20'' at line 7
+)
+
+[2017-05-25 12:41:34] (ERROR @ C:\OpenServer\domains\modx.lesson\core\components\getproducts\model\getproducts.class.php : 655) [ERROR] getProducts SQL error (line 655): Array
+(
+    [0] => 42000
+    [1] => 1064
+    [2] => You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''20'' at line 7
+)
+
+[2017-05-25 12:42:53] (ERROR @ C:\OpenServer\domains\modx.lesson\core\components\getproducts\model\getproducts.class.php : 655) [ERROR] getProducts SQL error (line 655): Array
+(
+    [0] => 42000
+    [1] => 1064
+    [2] => You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''20'' at line 7
+)
+
+[2017-05-25 12:42:53] (ERROR @ C:\OpenServer\domains\modx.lesson\core\components\getproducts\model\getproducts.class.php : 655) [ERROR] getProducts SQL error (line 655): Array
+(
+    [0] => 42000
+    [1] => 1064
+    [2] => You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''20'' at line 7
+)
+
+[2017-05-25 12:42:54] (ERROR @ C:\OpenServer\domains\modx.lesson\core\components\getproducts\model\getproducts.class.php : 655) [ERROR] getProducts SQL error (line 655): Array
+(
+    [0] => 42000
+    [1] => 1064
+    [2] => You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''20'' at line 7
+)
+
+[2017-05-25 12:44:29] (ERROR @ C:\OpenServer\domains\modx.lesson\core\components\getproducts\model\getproducts.class.php : 655) [ERROR] getProducts SQL error (line 655): Array
+(
+    [0] => 42000
+    [1] => 1064
+    [2] => You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''20'' at line 7
+)
+
+[2017-05-25 12:44:34] (ERROR @ C:\OpenServer\domains\modx.lesson\core\components\getproducts\model\getproducts.class.php : 655) [ERROR] getProducts SQL error (line 655): Array
+(
+    [0] => 42000
+    [1] => 1064
+    [2] => You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''20'' at line 7
+)
+
+[2017-05-25 12:45:12] (ERROR @ C:\OpenServer\domains\modx.lesson\core\components\getproducts\model\getproducts.class.php : 655) [ERROR] getProducts SQL error (line 655): Array
+(
+    [0] => 42000
+    [1] => 1064
+    [2] => You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''20'' at line 7
+)
+
+[2017-05-25 12:45:20] (ERROR @ C:\OpenServer\domains\modx.lesson\core\components\getproducts\model\getproducts.class.php : 655) [ERROR] getProducts SQL error (line 655): Array
+(
+    [0] => 42000
+    [1] => 1064
+    [2] => You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''20'' at line 7
+)
+
+[2017-05-25 12:45:22] (ERROR @ C:\OpenServer\domains\modx.lesson\core\components\getproducts\model\getproducts.class.php : 655) [ERROR] getProducts SQL error (line 655): Array
+(
+    [0] => 42000
+    [1] => 1064
+    [2] => You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''20'' at line 7
+)
+
+[2017-05-25 12:45:39] (ERROR @ C:\OpenServer\domains\modx.lesson\core\components\getproducts\model\getproducts.class.php : 655) [ERROR] getProducts SQL error (line 655): Array
+(
+    [0] => 42000
+    [1] => 1064
+    [2] => You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''20'' at line 7
+)
+
+[2017-05-25 12:45:40] (ERROR @ C:\OpenServer\domains\modx.lesson\core\components\getproducts\model\getproducts.class.php : 655) [ERROR] getProducts SQL error (line 655): Array
+(
+    [0] => 42000
+    [1] => 1064
+    [2] => You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''20'' at line 7
+)
+
+[2017-05-25 12:45:40] (ERROR @ C:\OpenServer\domains\modx.lesson\core\components\getproducts\model\getproducts.class.php : 655) [ERROR] getProducts SQL error (line 655): Array
+(
+    [0] => 42000
+    [1] => 1064
+    [2] => You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''20'' at line 7
+)
+
+[2017-05-25 12:45:40] (ERROR @ C:\OpenServer\domains\modx.lesson\core\components\getproducts\model\getproducts.class.php : 655) [ERROR] getProducts SQL error (line 655): Array
+(
+    [0] => 42000
+    [1] => 1064
+    [2] => You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''20'' at line 7
+)
+
+[2017-05-25 14:50:28] (ERROR @ C:\OpenServer\domains\modx.lesson\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/ru/core/resource
+[2017-05-25 18:39:24] (ERROR @ C:\OpenServer\domains\modx.lesson\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/ru/core/resource
+[2017-05-25 20:39:40] (ERROR @ C:\OpenServer\domains\modx.lesson\core\xpdo\om\xpdoobject.class.php : 1452) Error 23000 executing statement:
+INSERT INTO `modx_site_templates` (`source`, `property_preprocess`, `templatename`, `description`, `editor_type`, `category`, `icon`, `template_type`, `content`, `locked`, `properties`, `static`, `static_file`) VALUES (1, 0, 'Оформление заказа', '', 0, 0, '', 0, '[[$head]]\n<body>\n  <div class=\"top-block\">\n       <header>\n         <div class=\"container\">\n           <div class=\"row\">\n             <div class=\"col-md-2 text-center\"><a href=\"./index.html\" class=\"logo\" title=\"sushipedia\"><img src=\"assets/img/logo.png\" width=\"165\" height=\"130\" alt=\"sushipedia\" style=\"pointer-events: none;\"></a></div> \n             <div class=\"col-md-7\">\n               <nav>\n                 <ul class=\"list-inline\">\n                   <li><a href=\"./index.html\" title=\"link\">Главная</a></li>\n                   <li><a href=\"./sushirolls.html\" title=\"link\">Роллы</a></li>\n                   <li><a href=\"./sushi.html\" title=\"link\">Суши</a></li>\n                   <li class=\"current\"><a href=\"./delivery.html\" title=\"link\">Доставка</a></li>\n                   <li><a href=\"./about-us.html\" title=\"link\">О нас</a></li>\n                   <li><a href=\"#\" title=\"link\">Корзина</a></li>\n                 </ul>\n               </nav>\n             </div>\n             <div class=\"col-md-3 pull-center\">\n              <div class=\"phone\">\n                <div class=\"phone-wrap\">\n                  +7-999-570-39-20\n                </div>\n              </div>\n            </div>\n          </div>\n      </div>\n    </header>\n    <div class=\"col-md-8\">\n      \n    </div>\n    <div class=\"col-md-4\">\n      \n    </div>\n  [[$footer]]\n</body>', 0, 'a:0:{}', 0, '')
+Array
+(
+    [0] => 23000
+    [1] => 1062
+    [2] => Duplicate entry 'Оформление заказа' for key 'templatename'
+)
+
+[2017-05-25 20:39:40] (ERROR @ C:\OpenServer\domains\modx.lesson\core\model\modx\modtemplate.class.php : 72) template_err_createArray
+[2017-05-31 21:40:21] (ERROR @ C:\OpenServer\domains\modx.lesson\core\cache\includes\elements\modsnippet\3.include.cache.php : 145) [FormIt] An error occurred while trying to send the auto-responder email: You must provide at least one recipient email address.
+[2017-06-05 12:19:17] (ERROR @ C:\OpenServer\domains\modx.lesson\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/ru/core/resource
